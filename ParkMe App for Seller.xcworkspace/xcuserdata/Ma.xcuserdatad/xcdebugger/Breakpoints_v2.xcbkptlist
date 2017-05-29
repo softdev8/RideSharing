@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkMe App for Seller/ParkingSpotHandler.swift"
+            timestampString = "511771581.129715"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "listenBuyerLocation(buyer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkMe_App_for_Seller.ParkingHandler.(listenBuyerLocation (buyer : Swift.String) -&gt; ()).(closure #1)"
+                  moduleName = "ParkMe App for Seller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ma/Documents/Work/ParkMe/ParkMe-App-master/ParkMe%20App%20for%20Seller/ParkingSpotHandler.swift"
+                  timestampString = "511772269.675147"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "2476">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkMe_App_for_Seller.ParkingHandler.(listenBuyerLocation (buyer : Swift.String) -&gt; ()).(closure #1)"
+                  moduleName = "ParkMe App for Seller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ma/Documents/Work/ParkMe/ParkMe-App-master/ParkMe%20App%20for%20Seller/ParkingSpotHandler.swift"
+                  timestampString = "511772269.676843"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "3972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

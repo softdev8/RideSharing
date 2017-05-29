@@ -1,0 +1,6 @@
+framework module Pods_ParkMe_App_for_Seller {
+  umbrella header "Pods-ParkMe App for Seller-umbrella.h"
+
+  export *
+  module * { export * }
+}
